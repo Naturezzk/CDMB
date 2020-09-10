@@ -1,0 +1,13 @@
+asgiref==3.2.10
+click==3.3
+Django==3.1.1
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pillow==7.2.0
+prettytable==0.7.2
+pyecharts==1.8.1
+pytz==2020.1
+pywin32==228
+simplejson==3.17.2
+sqlparse==0.3.1
+WMI==1.5.1
